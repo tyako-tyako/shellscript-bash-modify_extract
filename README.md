@@ -1,8 +1,7 @@
 # shellscript-bash-modify_extract
 2つのフォルダを比較し、ファイルの追加・変更を抽出する処理
 
-
-<p>
+<pre> 
 変更を抽出する処理
 -p : ポーズ（本オプションを付けて起動すると、変更を見つけたら処理を一時停止し、変更ファイルを画面出力する）
 modify_extract.sh [変更前フォルダ] [変更後フォルダ] [結果出力ファイル名]
@@ -22,4 +21,4 @@ usage:
 ./modify_extract.sh /home/simo/work/2022_1/test/a/ /home/simo/work/2022_1/test/b/ result.txt
 ./modify_extract.sh /home/simo/work/2022_1/test/a/ /home/simo/work/2022_1/test/b/ >> result.txt
 
-</p>
+</pre> 

@@ -1,0 +1,6 @@
+2022年 3月 16日 水曜日 01:15:26 JST
+追加ファイル一覧
+/home/simo/work/2022_1/test/b/d.txt
+/home/simo/work/2022_1/test/b/1/1a.txt
+更新ファイル一覧
+/home/simo/work/2022_1/test/b/a.txt
